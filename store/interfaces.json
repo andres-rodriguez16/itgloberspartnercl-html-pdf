@@ -1,0 +1,6 @@
+{
+  "pdf-render": {
+    "component": "PdfRender",
+    "render": "client"
+  }
+}
